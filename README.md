@@ -1,4 +1,4 @@
-## Go Ethereum
+## ROLC
 
 Official golang implementation of the ROLC protocol. ROLC is  base on go-ethereum.
 
